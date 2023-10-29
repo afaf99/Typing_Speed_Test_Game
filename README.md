@@ -28,7 +28,7 @@ This is a small project for a typing speed test game using CSS, HTML, and JavaSc
 
 ## Getting Started
 
-To play the Typing Speed Test Game, you can follow these steps:
+To play the Typing Speed Test Game:
 
 site is live at https://afaf99.github.io/Typing_Speed_Test_Game/
 
