@@ -31,10 +31,10 @@ This is a small project for a typing speed test game using CSS, HTML, and JavaSc
 To play the Typing Speed Test Game, you can follow these steps:
 
 1. Clone the repository to your local machine:
-
-   ```bash
-   git clone  https://afaf99.github.io/Typing_Speed_Test_Game/
-
+2. 
+   ```sh
+   git clone https://afaf99.github.io/Typing_Speed_Test_Game/
+   ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
